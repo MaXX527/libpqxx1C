@@ -1,0 +1,6 @@
+LIBRARY    "libpqxx1C"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
